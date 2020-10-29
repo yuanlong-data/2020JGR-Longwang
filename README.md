@@ -2,4 +2,4 @@ Data for the manuscript, "Effects of terrain and landmass near Fujian Province o
 
 1.The observed data including the radar reflectivity and precipitation are available at https://doi.pangaea.de/10.1594/PANGAEA.905732.
 
-2.The model data are avaliable at https://doi.org/10.1029/2019JD030600.
+2.The model data are avaliable at https://doi.pangaea.de/10.1594/PANGAEA.924224.
