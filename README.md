@@ -1,5 +1,5 @@
 Data for the manuscript, "Effects of terrain and landmass near Fujian Province of China on the structure and propagation of a long-lived rainband in Typhoon Longwang (2005): A numerical study", published in JGR-Atmosphere.
 
-1.At this stage, the observed data including the radar reflectivity and precipitation, and model data of the control experiment together with the model name-list are available at https://doi.pangaea.de/10.1594/PANGAEA.905732.
+1.The observed data including the radar reflectivity and precipitation are available at https://doi.pangaea.de/10.1594/PANGAEA.905732.
 
-2.Anather DOI for all data used in the manuscript, including the data from the sensitivity experiments, is under processed in PANGAEA, and will be provided soon.
+2.The model data are avaliable at https://doi.org/10.1029/2019JD030600.
